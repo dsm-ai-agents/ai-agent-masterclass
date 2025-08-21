@@ -21,6 +21,15 @@ Kunaal
 
 ### 📌 Instruction Prompt — Send an Email
 
+#### Template
+```
+Send an email to adjectivecontentcreators@gmail.com  
+with the subject “<Use your Own Subject>”  
+and the body saying:  
+“<Write what experience about the masterclass here>”
+```
+
+#### Sample
 ```
 Send an email to adjectivecontentcreators@gmail.com  
 with the subject “How awesome the masterclass was”  
@@ -28,6 +37,3 @@ and the body saying:
 “I was able to build AI agents and make them work. It was very engaging.”
 ```
 
----
-
-Want me to also add a **“Sample Output” block** so participants see how the polished email will look once the agent rewrites it?
