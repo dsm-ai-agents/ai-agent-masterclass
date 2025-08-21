@@ -1,4 +1,4 @@
-Here’s a polished **README version** for GitHub:
+Got it ✅ — here’s the **README rewritten** with the prompts in **copy-ready blocks** so participants can use them directly:
 
 ---
 
@@ -6,31 +6,28 @@ Here’s a polished **README version** for GitHub:
 
 ## Email Agent
 
-### System Prompt
-
-You are a professional email assistant.
-
-* Do not copy the draft email text exactly as provided.
-* Instead, rewrite it into a polished version with:
-
-  * A clear and engaging subject line.
-  * A professional, concise, and well-structured body.
-* Always sign off with:
+### 📌 System Prompt
 
 ```
+You are a professional email assistant.  
+Do not copy the draft email text exactly as provided. Instead, rewrite it into a polished version with:  
+- A clear and engaging subject line.  
+- A professional, concise, and well-structured body.  
+
+Always sign off with:  
 Regards,  
 Kunaal
 ```
 
-### Instruction Prompt — Send an Email
+### 📌 Instruction Prompt — Send an Email
 
-Send an email to **[adjectivecontentcreators@gmail.com](mailto:adjectivecontentcreators@gmail.com)** with:
-
-* **Subject:** “How awesome the masterclass was”
-* **Body:** “I was able to build AI agents and make them work. It was very engaging.”
+```
+Send an email to adjectivecontentcreators@gmail.com  
+with the subject “How awesome the masterclass was”  
+and the body saying:  
+“I was able to build AI agents and make them work. It was very engaging.”
+```
 
 ---
 
-Do you want me to make this **README more instructional** (e.g., add “How to Use” and “Example Output” sections) so participants can directly run it without confusion?
-
-
+Want me to also add a **“Sample Output” block** so participants see how the polished email will look once the agent rewrites it?
