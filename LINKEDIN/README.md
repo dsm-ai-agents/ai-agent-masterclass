@@ -26,4 +26,5 @@ Encourage readers to share opinions, comment, or engage in discussion.
 
 ### 5. Use emojis naturally  
 Sprinkle emojis where they enhance tone and emotion, but don’t overdo them.
+
 ```
