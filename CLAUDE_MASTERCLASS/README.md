@@ -8,7 +8,7 @@ agent_2_summary.md — create KPI, trend, exception, and performance summary.
 agent_3_powerpoint.md — create a one-slide executive PowerPoint.
 agent_4_html.md — create an HTML KPI dashboard for regional managers.
 Before creating files, show the proposed architecture, workflow, folders, and outputs for approval.
-Do it in the local folder. 
+Do it in the local folder. Dont execute the workflow. 
 ```
 
 # Prompt 2
